@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(255, 119, 0);  /* cor de fundo */
+    color: rgb(255, 240, 254);  /*cor da letra */
+    margin: 0px;  /* espaço antes da borda */
+}
+
+header {
+    border-bottom: solid 2px rgb(255, 255, 255);
+    padding: 20px;  /* espaçamento depois da borda e antes do conteúdo */
+    font-size: 32px;
+    color: brown;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+p {
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+}
